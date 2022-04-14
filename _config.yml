@@ -1,6 +1,6 @@
 title: "Life 2.0"
 author: "Jin"
-description: "Personal Gorwth Blog"
+description: "Personal Growth Blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
